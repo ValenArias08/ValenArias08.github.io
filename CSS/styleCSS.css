@@ -1,11 +1,21 @@
 body {
     font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    padding: 0;
+    
+}
+
+.ui.menu {
+    margin-bottom: 20px;
+}
+
+#menu-container{
+    background-color: #639FAB;
+    color: #fff;
+}
+
+.ui.container {
+    margin-top: 20px;
 }
 
 .image-container {
@@ -36,3 +46,5 @@ body {
     font-size: 20px;
     text-align: center;
 }
+
+

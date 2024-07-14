@@ -3,14 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio</title>
+    <title>Mi Portafolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
     <link rel="stylesheet" href="CSS/styleCSS.css">
 </head>
 <body>
-    <div class="image-container">
-        <img src="Assets/Imagenes/dead.jpg" alt="Descripción de la imagen">
-        <div class="overlay">Texto emergente</div>
+
+    <!-- Menú -->
+    <div id="menu-container" class="ui container"></div>
+
+    <!-- Contenido -->
+    <div id="content" class="ui container">
+        <div class="ui segment">
+            <iframe id="content-frame" name="content-frame" src="" width="100%" height="600px" frameborder="0"></iframe>
+        </div>
     </div>
+
+    <div class="ui card">
+        <div class="ui slide masked reveal image">
+            <img src="Assets/Imagenes/dead.jpg" class="visible content">
+            <img src="Assets/Imagenes/dead.jpg" class="hidden content">
+        </div>
+        <div class="content">
+            <a class="header">Team Fu &amp; Hess</a>
+            <div class="meta">
+            <   span class="date">Created in Sep 2014</span>
+            </div>
+        </div>
+        <div class="extra content">
+            <a><i class="users icon"></i>2 Members</a>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
     <script src="JS/funciones.js"></script>
 </body>
 </html>

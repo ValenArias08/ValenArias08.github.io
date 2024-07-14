@@ -1,3 +1,8 @@
+$(document).ready(function() {
+    // Cargar el menú desde menu.html
+    $('#menu-container').load('Pages/menu.html');
+});
+/*
 document.addEventListener('DOMContentLoaded', function () {
     const imageContainer = document.querySelector('.image-container');
     const overlay = document.querySelector('.overlay');
@@ -10,3 +15,4 @@ document.addEventListener('DOMContentLoaded', function () {
         overlay.style.opacity = '0';
     });
 });
+*/
