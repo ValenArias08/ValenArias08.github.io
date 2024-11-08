@@ -1,20 +1,37 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.838ca334.css",
-    "main.js": "/portfolio/static/js/main.f7d9de4e.js",
-    "static/media/RogfreeImage.png": "/portfolio/static/media/RogfreeImage.993cda77ba697f732f83.png",
-    "static/media/Avatar.png": "/portfolio/static/media/Avatar.fa312ccf8f85946c64d0.png",
-    "static/media/WigglesImage.png": "/portfolio/static/media/WigglesImage.20a26843b040ce7513a0.png",
-    "static/media/TindogImage.png": "/portfolio/static/media/TindogImage.4e5a87d8a7a948be72d7.png",
-    "static/media/Resume.pdf": "/portfolio/static/media/Resume.1464d2a51e1fe432015e.pdf",
+    "main.css": "/portfolio/static/css/main.06176f59.css",
+    "main.js": "/portfolio/static/js/main.e4c4a552.js",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.87ec4b5967a552ca1b6a.pdf",
+    "static/media/GuayaboEnerno.png": "/portfolio/static/media/GuayaboEnerno.13c5cce663857f73ce2a.png",
+    "static/media/Guerrero_ancestral_animation_4_pixel.gif": "/portfolio/static/media/Guerrero_ancestral_animation_4_pixel.aaea2fc0d97dad5554ca.gif",
+    "static/media/Guerrero_ancestral_animation_1_pixel.gif": "/portfolio/static/media/Guerrero_ancestral_animation_1_pixel.ca08266e8ca2e7308a07.gif",
+    "static/media/Galactic_Grow.jpg": "/portfolio/static/media/Galactic_Grow.995485468e7c16faaddc.jpg",
+    "static/media/Jefe_ancestral_animation_1_pixel.gif": "/portfolio/static/media/Jefe_ancestral_animation_1_pixel.2670c79c7c0dfbb10a8d.gif",
+    "static/media/Slide_car_2.jpg": "/portfolio/static/media/Slide_car_2.4dd71ec51d51910be82b.jpg",
+    "static/media/Marciano_alienigena_animation_3_pixel.gif": "/portfolio/static/media/Marciano_alienigena_animation_3_pixel.de2fca5c0164eca3b8e4.gif",
+    "static/media/Marciano_alienigena_animation_1_pixel.gif": "/portfolio/static/media/Marciano_alienigena_animation_1_pixel.66c3aec73cdc8bb1aaaf.gif",
+    "static/media/Ancestral_Guardians.jpg": "/portfolio/static/media/Ancestral_Guardians.80837b19dc8a39e863bf.jpg",
+    "static/media/explosive-balloon-race-1.jpg": "/portfolio/static/media/explosive-balloon-race-1.35070b5352ea7448ced8.jpg",
+    "static/media/Guerrero_ancestral_animation_5_pixel.gif": "/portfolio/static/media/Guerrero_ancestral_animation_5_pixel.3fea904a3a480fa0b4dd.gif",
+    "static/media/Marciano_alienigena_animation_2_pixel.gif": "/portfolio/static/media/Marciano_alienigena_animation_2_pixel.6565e36d93520528c566.gif",
     "static/media/EchoesofBillie1.jpg": "/portfolio/static/media/EchoesofBillie1.10f3c74b162a930ef444.jpg",
-    "static/media/NewsletterImage.png": "/portfolio/static/media/NewsletterImage.c26ff2e9ad8650e93ad0.png",
+    "static/media/Jefe_ancestral_animation_4_pixel.gif": "/portfolio/static/media/Jefe_ancestral_animation_4_pixel.5c844155ebae94d7e1f1.gif",
+    "static/media/Laser-food-1.jpg": "/portfolio/static/media/Laser-food-1.af5cd73ca6d676e7121b.jpg",
+    "static/media/Broken_dimension_animation_pixel.gif": "/portfolio/static/media/Broken_dimension_animation_pixel.e13771110b6073b6e64f.gif",
+    "static/media/Guerrero_ancestral_animation_2_pixel.gif": "/portfolio/static/media/Guerrero_ancestral_animation_2_pixel.145d87475c14f0e16769.gif",
+    "static/media/Jefe_ancestral_animation_2_pixel.gif": "/portfolio/static/media/Jefe_ancestral_animation_2_pixel.bcfbcd60812a7924e53a.gif",
+    "static/media/Guerrero_ancestral_animation_3_pixel.gif": "/portfolio/static/media/Guerrero_ancestral_animation_3_pixel.41b6db04078b3b6a192e.gif",
+    "static/media/Marciano_alienigena_animation_4_pixel.gif": "/portfolio/static/media/Marciano_alienigena_animation_4_pixel.72dea004f66f11e259d0.gif",
+    "static/media/Jefe_ancestral_animation_3_pixel.gif": "/portfolio/static/media/Jefe_ancestral_animation_3_pixel.881800cc31135d79c0e1.gif",
+    "static/media/PixelAvatar.gif": "/portfolio/static/media/PixelAvatar.57455e0d17a769ea1aea.gif",
+    "static/media/Grab-the-Ball-Rex-1.jpg": "/portfolio/static/media/Grab-the-Ball-Rex-1.63b4a36d8ad6cb856bc4.jpg",
     "index.html": "/portfolio/index.html",
-    "main.838ca334.css.map": "/portfolio/static/css/main.838ca334.css.map",
-    "main.f7d9de4e.js.map": "/portfolio/static/js/main.f7d9de4e.js.map"
+    "main.06176f59.css.map": "/portfolio/static/css/main.06176f59.css.map",
+    "main.e4c4a552.js.map": "/portfolio/static/js/main.e4c4a552.js.map"
   },
   "entrypoints": [
-    "static/css/main.838ca334.css",
-    "static/js/main.f7d9de4e.js"
+    "static/css/main.06176f59.css",
+    "static/js/main.e4c4a552.js"
   ]
 }
