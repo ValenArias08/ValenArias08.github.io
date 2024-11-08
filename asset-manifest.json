@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.06176f59.css",
-    "main.js": "/static/js/main.9c8298e4.js",
+    "main.js": "/static/js/main.1371620b.js",
     "static/media/Resume.pdf": "/static/media/Resume.87ec4b5967a552ca1b6a.pdf",
     "static/media/GuayaboEnerno.png": "/static/media/GuayaboEnerno.13c5cce663857f73ce2a.png",
     "static/media/Guerrero_ancestral_animation_4_pixel.gif": "/static/media/Guerrero_ancestral_animation_4_pixel.aaea2fc0d97dad5554ca.gif",
@@ -28,10 +28,10 @@
     "static/media/Grab-the-Ball-Rex-1.jpg": "/static/media/Grab-the-Ball-Rex-1.63b4a36d8ad6cb856bc4.jpg",
     "index.html": "/index.html",
     "main.06176f59.css.map": "/static/css/main.06176f59.css.map",
-    "main.9c8298e4.js.map": "/static/js/main.9c8298e4.js.map"
+    "main.1371620b.js.map": "/static/js/main.1371620b.js.map"
   },
   "entrypoints": [
     "static/css/main.06176f59.css",
-    "static/js/main.9c8298e4.js"
+    "static/js/main.1371620b.js"
   ]
 }
