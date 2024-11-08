@@ -46,11 +46,11 @@ function App() {
       <MoveToTop/>
 
       <Routes>
-        <Route index path="/portfolio" element={<Home/>} />
-        <Route path="/portfolio/about" element={<About/>}/>
-        <Route path="/portfolio/project" element={<Project/>}/>
-        <Route path="/portfolio/resume" element={<Resume/>}/>
-        <Route path="/portfolio/galery" element={<Galery/>}/>
+        <Route index path="/" element={<Home/>} />
+        <Route path="/about" element={<About/>}/>
+        <Route path="/project" element={<Project/>}/>
+        <Route path="/resume" element={<Resume/>}/>
+        <Route path="/galery" element={<Galery/>}/>
       </Routes>
       
       <Footer/>

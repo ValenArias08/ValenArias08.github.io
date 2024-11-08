@@ -14,9 +14,10 @@ const Projects = () => {
     <div>
       
       <h1 className='projectHeading'>Mis <b>Proyectos</b></h1>
-      <h2 className='subProjects'>Game<b>Jams</b></h2>
+      <h2 className='subProjects'>Proyec<b>tos</b></h2>
 
       <div className='project'>
+       <ProjectBox projectPhoto={AncestralGuardians} projectName="AncestralGuardians" />
         <ProjectBox projectPhoto={EchoesofBillie} projectName="EchoesofBillie" />
         <ProjectBox projectPhoto={GalacticGrow} projectName="GalacticGrow" />
         <ProjectBox projectPhoto={GuayaboEterno} projectName="GuayaboEterno" />
@@ -25,7 +26,6 @@ const Projects = () => {
       <h2 className='subProjects'>Proto<b>tipos</b></h2>
 
       <div className='project'>
-        <ProjectBox projectPhoto={AncestralGuardians} projectName="AncestralGuardians" />
         <ProjectBox projectPhoto={ExplosiveBallon} projectName="ExplosiveBallon" />
         <ProjectBox projectPhoto={GrabBall} projectName="GrabBall" />
         <ProjectBox projectPhoto={LaserFood} projectName="LaserFood" />
